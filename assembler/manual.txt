@@ -1,0 +1,26 @@
+BOSON PROCESSOR v1.0
+
+ASSEMBLER MANUAL
+
+Author: Przemyslaw Mazurek, dr eng sc
+Department of Signal Processing and Multimedia Engineering
+West-Pomeranian University of Technology Szczecin
+przemyslaw.mazurek@zut.edu.pl
+
+======================================================
+
+assembler input:
+- text file,
+- labels are supported,
+- labels start from first column
+- mnemonic names needs single or more space/tab
+- calling asembler
+
+asm.bat file.asm
+
+generated file (hex file for logisim)
+
+file.bin
+
+and a few files showing internals...
+
